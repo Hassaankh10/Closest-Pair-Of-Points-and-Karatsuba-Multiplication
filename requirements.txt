@@ -1,0 +1,12 @@
+matplotlib>=3.5.0
+
+# Note: tkinter is usually included with Python by default
+# If tkinter is not available, install it using:
+#   macOS: brew install python-tk
+#   Ubuntu/Debian: sudo apt-get install python3-tk
+#   Windows: tkinter should be included with Python
+# 
+# If tkinter is unavailable, you can still use:
+#   - interactive_cli.py (command-line interface)
+#   - run_demo.py (demo script)
+
