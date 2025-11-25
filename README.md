@@ -137,7 +137,3 @@ See `report.md` for the complete 3-page project report including:
 - `interactive_cli.py` - Full-featured command-line interface
 - `run_demo.py` - Quick demo script
 
-## Author
-
-DAA Project - Divide and Conquer Algorithms Implementation
-
